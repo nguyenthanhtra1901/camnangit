@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#win10 &#8211; THANH TRA</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/win10/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenthanhtra1901.github.io/camnangit</link>
+	<description>Mang đến cho bạn những trải nghiệm tốt nhất</description>
+	<lastBuildDate>Thu, 20 May 2021 07:06:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/1.png</url>
+	<title>#win10 &#8211; THANH TRA</title>
+	<link>https://nguyenthanhtra1901.github.io/camnangit</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Thủ thuật hướng dẫn cách chia 2 màn hình máy tính Win 10</title>
+		<link>https://nguyenthanhtra1901.github.io/camnangit/quicks/thuthuat-chiamanhinh-maytinhwin10/</link>
+					<comments>https://nguyenthanhtra1901.github.io/camnangit/quicks/thuthuat-chiamanhinh-maytinhwin10/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Phúc Thanh Bình]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 07:06:31 +0000</pubDate>
+				<category><![CDATA[Quicks]]></category>
+		<category><![CDATA[#chiamanhinh]]></category>
+		<category><![CDATA[#thuthuat]]></category>
+		<category><![CDATA[#win10]]></category>
+		<guid isPermaLink="false">https://nguyenthanhtra1901.github.io/camnangit/?p=31</guid>
+
+					<description><![CDATA[Trong quá trình sử dụng máy tính, đôi khi do nhu cầu bắt buộc bạn phải sử dụng nhiều cửa sổ cùng lúc hay chia đôi màn hình để thuận tiện cho thao tác. Để hỗ trợ cho người dùng, dưới đây sẽ là hướng dẫn chi tiết cách chia 2 màn hình máy tính đơn giản trên Windows 10.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-normal-font-size"><strong>Trong quá trình sử dụng máy tính, đôi khi do nhu cầu bắt buộc bạn phải sử dụng nhiều cửa sổ cùng lúc hay chia đôi màn hình để thuận tiện cho thao tác. Để hỗ trợ cho người dùng, dưới đây sẽ là hướng dẫn chi tiết&nbsp;cách chia 2 màn hình máy tính đơn giản trên&nbsp;Windows 10.</strong></p>
+
+
+
+<p>Thực tế tính năng chia đôi màn hình đã được phát triển trên hệ điều hành Windows 7 với thao tác kích hoạt nhanh chóng bằng tổ hợp phím Windows + phím mũi tên trái/phải. Theo đó màn hình sẽ nhanh chóng được chia làm 2 cửa sổ độc lập, thuận tiện cho thao tác, thay vì phải chuyển qua lại giữa các tab khá mất thời gian.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="338" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/chia-doi-man-hinh-may-tinh-win10.jpg" alt="" class="wp-image-33"/><figcaption>Windows 10 cho phép mở đồng thời nhiều hơn 2 cửa sổ độc lập</figcaption></figure>
+
+
+
+<p>Tính năng này tiếp tục được phát triển và nâng cấp trên hệ điều hành Windows 10, với nhiều đặc điểm cải tiến như cho phép mở đồng thời nhiều hơn 2 cửa sổ độc lập để tăng hiệu quả làm việc. Sau đây sẽ là những hướng dẫn chi tiết cách&nbsp;<strong>chia 2 màn hình độc lập Win 10&nbsp;</strong>với những thao tác đơn giản mà bạn có thể tự thực hiện nhanh chóng.&nbsp;</p>
+
+
+
+<h2><strong>Cách chia 2 màn hình máy tính trên Windows 10</strong></h2>
+
+
+
+<p>Tính năng chia nhỏ màn hình, hay còn gọi là Multitasking được phát triển trên&nbsp;<strong>Windows 10</strong>&nbsp;nhằm hỗ trợ việc chia màn hình lớn thành nhiều cửa sổ làm việc nhỏ hơn, đáp ứng nhu cầu xử lý tác vụ đa nhiệm cùng lúc.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="338" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/chia-doi-man-hinh-may-tinh-win10-1.jpg" alt="" class="wp-image-34"/><figcaption>Tính năng chia nhỏ màn hình Multitasking phát triển trên Windows 10</figcaption></figure>
+
+
+
+<p>Trước tiên, người dùng cần kích hoạt tính năng Multitasking trên Windows 10 như sau:</p>
+
+
+
+<p><strong>Bước 1</strong>: Mở mục&nbsp;<strong>Cài đặt (Setting) trên máy tính từ thanh menu Start.</strong></p>
+
+
+
+<p><strong>Bước 2</strong>: Nhấn chọn&nbsp;<strong>System.</strong></p>
+
+
+
+<p><strong>Bước 3</strong>: Chọn tiếp mục&nbsp;<strong>Multitasking</strong>&nbsp;để mở cửa sổ cài đặt hiển thị trên màn hình.</p>
+
+
+
+<p>Tại đây, người dùng sẽ nhìn thấy&nbsp;<strong>4 cài đặt&nbsp;</strong>liên quan đến Snap, và các thao tác cài đặt bật/tắt tùy theo nhu cầu sử dụng.&nbsp;</p>
+
+
+
+<p>Tiếp theo người dùng cần thực hiện các thao tác sau để hoàn tất các&nbsp;<strong>cách chia 2 màn hình máy tính&nbsp;</strong>Win 10 nhanh chóng.</p>
+
+
+
+<h3><strong>Cách 1: Sử dụng chuột</strong></h3>
+
+
+
+<p>Một trong những cách thức đơn giản nhất để chia đôi màn hình trên máy tính Windows 10 chính là sử dụng chuột để thu nhỏ và kéo cửa sổ trình duyệt sang mép trái/phải của màn hình cho đến khi màn hình Windows 10 hiện khung viền chia thành 2 nửa là được.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="387" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/chia-doi-man-hinh-may-tinh-win10-2.jpg" alt="" class="wp-image-35"/><figcaption>Chia đôi màn hình trên máy tính Windows 10 sử dụng chuột</figcaption></figure>
+
+
+
+<p>Sau đó, bạn nhả chuột ra sẽ thấy màn hình hiển thị các cửa sổ và lựa chọn thêm một cửa sổ ứng dụng khác. Hãy nhấn chọn cửa sổ muốn mở tại nửa màn hình còn lại là xong.</p>
+
+
+
+<h3><strong>Cách 2: Sử dụng Taskbar</strong></h3>
+
+
+
+<p>Để tự động chia màn hình máy tình thành 2 nửa hoặc theo số lượng ứng dụng muốn mở trên màn hình, người dùng có thể kích hoạt tính năng tại thanh Taskbar. Người dùng nhấn chuột phải trên thanh Taskbar rồi chọn mục Show windows side by side để cho phép máy tính tự động chia đôi màn hình chỉ trong tích tắc.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="338" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/chia-doi-man-hinh-may-tinh-win10-3.jpg" alt="" class="wp-image-36"/><figcaption>Kích hoạt tính năng tại thanh Taskbar tự động chia màn hình thành 2 nửa</figcaption></figure>
+
+
+
+<p>Sau khi sử dụng xong, bạn có thể đưa màn hình về trạng thái bình thường bằng việc nhấn chuột phải trên thanh Taskbar một lần nữa và chọn tắt tính năng Undo Show all windows side by side.</p>
+
+
+
+<h3><strong>Cách 3: Sử dụng phím tắt</strong></h3>
+
+
+
+<p>Bên cạnh cách chia đôi màn hình bằng chuột và thanh Taskbar, người dùng có thể sử dụng phím tắt trên Windows 10. Khi muốn chia đôi cửa sổ đang mở, người dùng nhấn chọn cửa sổ đó rồi nhấn đồng thời tổ hợp phím Windows + Nút mũi tên phải/trái để di chuyển cửa sổ lấp đầy ½ màn hình bên phải/trái tương ứng.</p>
+
+
+
+<h2><strong>Cách chia thành nhiều hơn 2 cửa sổ trên một màn hình</strong></h2>
+
+
+
+<p>Với cách chia màn hình trên Windows 10, người dùng có thể lựa chọn công cụ Corner Snap hỗ trợ chia các màn hình máy tính kích thước, có độ phân giải cao thành 4 cửa sổ nhỏ phân đều các góc. Thao tác thực hiện đơn giản bằng cách dùng chuột kéo 4 cửa sổ nhỏ ra 4 góc màn hình và sử dụng bình thường như khi chia 2 nửa.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="338" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/chia-doi-man-hinh-may-tinh-win10-4.jpg" alt="" class="wp-image-37"/><figcaption>Cách chia màn hình trên Windows 10 thành 4 cửa sổ nhỏ</figcaption></figure>
+
+
+
+<p>Với những màn hình máy tính kích thước lớn và hỗ trợ độ phân giải cao như 2K hay 4K thì&nbsp;<strong>cách chia 2 màn hình máy tính&nbsp;</strong>trên đây hứa hẹn sẽ đem đến những trải nghiệm tuyệt vời, tối ưu hiệu quả với nhiều cửa sổ làm việc cùng lúc.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhtra1901.github.io/camnangit/quicks/thuthuat-chiamanhinh-maytinhwin10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

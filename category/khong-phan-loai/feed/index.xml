@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; THANH TRA</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenthanhtra1901.github.io/camnangit</link>
+	<description>Mang đến cho bạn những trải nghiệm tốt nhất</description>
+	<lastBuildDate>Thu, 20 May 2021 08:02:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/1.png</url>
+	<title>Chưa phân loại &#8211; THANH TRA</title>
+	<link>https://nguyenthanhtra1901.github.io/camnangit</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Những thủ thuật trong Windows 10 có thể bạn chưa biết</title>
+		<link>https://nguyenthanhtra1901.github.io/camnangit/khong-phan-loai/nhung-thu-thuat-trong-windows-10-co-the-ban-chua-biet/</link>
+					<comments>https://nguyenthanhtra1901.github.io/camnangit/khong-phan-loai/nhung-thu-thuat-trong-windows-10-co-the-ban-chua-biet/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Phúc Thanh Bình]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 08:02:54 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenthanhtra1901.github.io/camnangit/?p=46</guid>
+
+					<description><![CDATA[Hệ điều hành Windows 10 là hệ điều hành tuyệt vời, nhưng làm thế nào để có thể trải nhiệm hết năng suất, tính năng của hệ điều hành này. Bài viết dưới đây sẽ giới thiệu cho các bạn một số thủ thuật còn ẩn bên trong Windows 10 mà ít người biết đến. 1. Menu Start bí mật &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Hệ điều hành Windows 10 là hệ điều hành tuyệt vời, nhưng làm thế nào để có thể trải nhiệm hết năng suất, tính năng của hệ điều hành này. Bài viết dưới đây sẽ giới thiệu cho các bạn một số thủ thuật còn ẩn bên trong Windows 10 mà ít người biết đến.</p>
+
+
+
+<h2 id="mcetoc_1ec47v9pq0">1. Menu Start bí mật</h2>
+
+
+
+<p>Nếu bạn là fan của trình đơn Start cổ xưa, bạn vẫn có thể sở hữu nó trên Windows 10. Khi nhấp chuột phải vào biểu tượng Windows ở góc dưới bên trái, nó sẽ xuất hiện một jump menu bằng chữ với một số tùy chọn quen thuộc như Programs and Features, Search, Run. Tất cả các tùy chọn này đều có sẵn thông qua giao diện menu chuẩn, nhưng bạn sẽ có thể truy cập chúng nhanh hơn thông qua giao diện văn bản này.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="365" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/thu-thuat-windows-10-1.jpg" alt="" class="wp-image-47"/></figure>
+
+
+
+<h2 id="mcetoc_1ec47v9pq1">2. Nút Show Desktop bí mật</h2>
+
+
+
+<p>Ở góc dưới cùng bên phải của màn hình, có nút Show Destop bí mật. Bạn vẫn không thấy nó? Hãy nhìn vào phía dưới bên phải, bên cạnh ngày và thời gian. Ở đó bạn sẽ tìm thấy nút nhỏ trong suốt, nhấp vào đó và nó sẽ thu nhỏ tất cả các cửa sổ đang mở để hiển thị trên desktop. Bạn có thể thay đổi điều này trong Settings để thay vì nhấp vào nó, chỉ cần di chuột qua góc để hiển thị desktop.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="401" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/thu-thuat-windows-10-2.jpg" alt="" class="wp-image-48"/></figure>
+
+
+
+<h2 id="mcetoc_1ec47v9pq2">3. Xoay màn hình bằng tổ hợp phím tắt Ctrl + Alt + D và phím mũi tên</h2>
+
+
+
+<p>Bạn có thể xoay màn hình bằng cách nhấn<strong>&nbsp;Ctrl + Alt + D</strong>&nbsp;và bất kỳ nút mũi tên nào. Mũi tên xuống sẽ lật màn hình lộn ngược, các nút mũi tên trái hoặc phải sẽ xoay nó với góc 90 độ và mũi tên lên sẽ đưa màn hình trở lại hướng tiêu chuẩn. Nếu bạn sử dụng nhiều màn hình, tính năng này cho phép bạn chỉ định hiển thị một cách đặc biệt.</p>
+
+
+
+<p>Ngoài ra, bạn có thể nhấp chuột phải lên nền desktop, chọn&nbsp;<strong>Graphics Options &gt; Rotation</strong>&nbsp;để xoay theo các hướng. Tính năng này có sẵn trên Windows 7 và 10.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="488" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/thu-thuat-windows-10-3.jpg" alt="" class="wp-image-49"/><figcaption><br></figcaption></figure>
+
+
+
+<h2 id="mcetoc_1ec47v9pq3">4. Bật tính năng trượt để tắt máy</h2>
+
+
+
+<p>Thủ thuật này chỉ hoạt động trên Windows 10, nó hơi phức tạp một chút. Nhấp chuột phải trên desktop, chọn&nbsp;<strong>New &gt; Shortcut</strong>. Trong cửa sổ bật lên tiếp theo, dán dòng mã sau:</p>
+
+
+
+<p><em>%windir%\System32\SlideToShutDown.exe</em></p>
+
+
+
+<p>Điều này tạo ra một biểu tượng có thể nhấp được trên máy tính, bạn có thể thoải mái đổi tên thành bất cứ điều gì bạn muốn. Để tắt máy bằng cách trượt xuống, hãy nhấp đúp vào biểu tượng mới vừa mới tạo, bạn sẽ thấy xuất hiện một hình bóng mờ. Sau đó sử dụng chuột để kéo nó xuống dưới cùng của màn hình. Hãy ghi nhớ, đây không phải là máy ở chế độ Sleep mà là tắt máy.</p>
+
+
+
+<h2 id="mcetoc_1ec47v9pq3">4. Bật tính năng trượt để tắt máy</h2>
+
+
+
+<p>Thủ thuật này chỉ hoạt động trên Windows 10, nó hơi phức tạp một chút. Nhấp chuột phải trên desktop, chọn&nbsp;<strong>New &gt; Shortcut</strong>. Trong cửa sổ bật lên tiếp theo, dán dòng mã sau:</p>
+
+
+
+<p><em>%windir%\System32\SlideToShutDown.exe</em></p>
+
+
+
+<p>Điều này tạo ra một biểu tượng có thể nhấp được trên máy tính, bạn có thể thoải mái đổi tên thành bất cứ điều gì bạn muốn. Để tắt máy bằng cách trượt xuống, hãy nhấp đúp vào biểu tượng mới vừa mới tạo, bạn sẽ thấy xuất hiện một hình bóng mờ. Sau đó sử dụng chuột để kéo nó xuống dưới cùng của màn hình. Hãy ghi nhớ, đây không phải là máy ở chế độ Sleep mà là tắt máy.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="650" height="365" src="https://nguyenthanhtra1901.github.io/camnangit/wp-content/uploads/2021/05/thu-thuat-windows-10-4-1.jpg" alt="" class="wp-image-50"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhtra1901.github.io/camnangit/khong-phan-loai/nhung-thu-thuat-trong-windows-10-co-the-ban-chua-biet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://nguyenthanhtra1901.github.io/camnangit/khong-phan-loai/chao-moi-nguoi/</link>
+					<comments>https://nguyenthanhtra1901.github.io/camnangit/khong-phan-loai/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Phúc Thanh Bình]]></dc:creator>
+		<pubDate>Mon, 17 May 2021 04:29:27 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenthanhtra1901.github.io/camnangit/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhtra1901.github.io/camnangit/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
